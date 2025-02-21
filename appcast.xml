@@ -15,8 +15,7 @@
 	    
             <!-- <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate> -->
             <enclosure url="2.4.0+240/z_set-2.4.0+240-macos.zip"
-		sparkle:edSignature="rPUyHHSW1tQaWvzE2TsfFOlrFtefD8Kp4SNYZ4RXPpGtawBCsiksTMYDgbvb92eQUAU/SpuTvPjxoC8MgtiWCQ=="
-		length="49941826"
+        sparkle:edSignature="WDXEkCV0w9/Ha6jQ40r5IwgOHr2araLyGl/zmf3sH6YQXAC2P3I8OM3QkyPuILrn/ASUeuVnfrhWe32GU5JcDQ==" length="49941691"
                 sparkle:os="macos"
                 type="application/octet-stream" />
         </item>

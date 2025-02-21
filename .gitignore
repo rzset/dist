@@ -1,1 +1,5 @@
-.DS_Store
+# Ignore everything
+*
+
+# Except the following files
+!appcast.xml

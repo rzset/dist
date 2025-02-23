@@ -24,7 +24,7 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink> -->
             <!-- <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate> -->
-            <enclosure url="zset_240.dmg" length="51476771" type="application/octet-stream" sparkle:edSignature="qAt4JbryWb/7UQAv/I0tK+6BnPeTBOzFCGG9UrOZuiC3IxyAYBzC8WJeV49wXD2rjrpVqF919wbs8fouU5UdDQ=="/>
+            <enclosure url="https://github.com/rzset/dist/releases/download/240/zset_240.dmg" length="51479672" type="application/octet-stream" sparkle:edSignature="SPz4ionuXORyWQebBOyamRSBFwnMEoS/NELbyvjAStj1CsOJAwoKOpXTxLyonN57cJVoB3csXc9g1AuQ0QggBw=="/>
             <pubDate>Sat, 22 Feb 2025 20:18:10 +0530</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
         </item>

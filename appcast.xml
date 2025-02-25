@@ -30,7 +30,7 @@
     <item>
       <title>Version 2.4.0</title>
       <pubDate>Tue, 25 Feb 2025 17:58:50 +0530</pubDate>
-      <sparkle:version>240</sparkle:version>
+      <sparkle:version>2.4.0+240</sparkle:version>
       <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
       <enclosure url="https://github.com/rzset/dist/releases/download/240/z_set-2.4.0+240-windows-setup.exe" length="0" type="application/octet-stream" sparkle:os="windows" sparkle:edSignature="MDwCHAlB1UA4wesWCYaYIyQ+VSRL9RntpSWIbxoHC6ACHG5RsIDrq3KvqUqH643Ffckcp0XxeuR5X1yug5o="/>
     </item>

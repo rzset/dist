@@ -1,56 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Zset</title>
-        <description>Most recent updates to Zset</description>
-        <language>en</language>
-        <item>
-            <title>2.4.1</title>
-            <pubDate>Sat, 22 Feb 2025 20:30:41 +0530</pubDate>
-            <sparkle:version>241</sparkle:version>
-            <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/241/zset_241.dmg" length="51479734" type="application/octet-stream" sparkle:edSignature="z2tWwjjCcVF78g3tlJBBplUK0LaCd19nLrPIxsZ5mSp+/3pH2ksdKgObjb04Kf3KGK8Nqgxo01hrHQLnP7/2AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/241/z_set241-240.delta" sparkle:deltaFrom="240" length="57706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="h7nk+tkzrfJrJZBCqmHtd1laRDeEirtPwspKGJjWN9ZTdpJJ1MLUW7fuVeKQSsUK6QFn0sG57M0uVkGstme9AQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>Version 2.4.0</title>
-            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
-            <sparkle:version>240</sparkle:version>
-            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
-            <!-- <sparkle:releaseNotesLink>
+  <channel>
+    <title>Zset</title>
+    <description>Most recent updates to Zset</description>
+    <item>
+      <title>2.4.1</title>
+      <pubDate>Sat, 22 Feb 2025 20:30:41 +0530</pubDate>
+      <sparkle:version>241</sparkle:version>
+      <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/rzset/dist/releases/download/241/zset_241.dmg" length="51479734" type="application/octet-stream" sparkle:edSignature="z2tWwjjCcVF78g3tlJBBplUK0LaCd19nLrPIxsZ5mSp+/3pH2ksdKgObjb04Kf3KGK8Nqgxo01hrHQLnP7/2AQ=="/>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/rzset/dist/releases/download/241/z_set241-240.delta" sparkle:deltaFrom="240" length="57706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="h7nk+tkzrfJrJZBCqmHtd1laRDeEirtPwspKGJjWN9ZTdpJJ1MLUW7fuVeKQSsUK6QFn0sG57M0uVkGstme9AQ=="/>
+      </sparkle:deltas>
+    </item>
+    <item>
+      <title>Version 2.4.0</title>
+      <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
+      <sparkle:version>240</sparkle:version>
+      <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+      <!-- <sparkle:releaseNotesLink>
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink> -->
-            <!-- <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate> -->
-            <enclosure url="https://github.com/rzset/dist/releases/download/241/zset_240.dmg" length="51479672" type="application/octet-stream" sparkle:edSignature="SPz4ionuXORyWQebBOyamRSBFwnMEoS/NELbyvjAStj1CsOJAwoKOpXTxLyonN57cJVoB3csXc9g1AuQ0QggBw=="/>
-            <pubDate>Sat, 22 Feb 2025 20:18:10 +0530</pubDate>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-        </item>
-        <item>
-            <title>Version 2.4.0</title>
-            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
-            <sparkle:version>240</sparkle:version>
-            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
-            <!-- <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
-            </sparkle:releaseNotesLink> -->
-            <!-- <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate> -->
-            <enclosure url="2.4.0+240/z_set-2.4.0+240-macos.zip" sparkle:edSignature="WDXEkCV0w9/Ha6jQ40r5IwgOHr2araLyGl/zmf3sH6YQXAC2P3I8OM3QkyPuILrn/ASUeuVnfrhWe32GU5JcDQ==" length="49941691" sparkle:os="macos" type="application/octet-stream"/>
-        </item>
-        <!-- <item>
-            <title>Version 1.1.0</title>
-            <sparkle:releaseNotesLink>
-                https://your_domain/your_path/release_notes.html
-            </sparkle:releaseNotesLink>
-            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="1.1.0+2/auto_updater_example-1.1.0+2-windows.exe"
-                       sparkle:dsaSignature="MEUCIQCVbVzVID7H3aUzAY5znpi+ySZKznkukV8whlMFzKh66AIgREUGOmvavlcg6hwAwkb2o4IqVE/D56ipIBshIqCH8rk="
-                       sparkle:version="1.1.0+2"
-                       sparkle:os="windows"
-                       length="0"
-                       type="application/octet-stream" />
-        </item> -->
-    </channel>
+      <!-- <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate> -->
+      <enclosure url="https://github.com/rzset/dist/releases/download/241/zset_240.dmg" length="51479672" type="application/octet-stream" sparkle:edSignature="SPz4ionuXORyWQebBOyamRSBFwnMEoS/NELbyvjAStj1CsOJAwoKOpXTxLyonN57cJVoB3csXc9g1AuQ0QggBw=="/>
+      <pubDate>Sat, 22 Feb 2025 20:18:10 +0530</pubDate>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+    </item>
+    <item>
+      <title>Version 240</title>
+      <pubDate>Tue, 25 Feb 2025 17:39:31 +0530</pubDate>
+      <sparkle:version>240</sparkle:version>
+      <enclosure url="https://github.com/rzset/dist/releases/download/240/z_set-2.4.0+240-windows-setup.exe" length="0" type="application/octet-stream" sparkle:os="windows" sparkle:edSignature="MD4CHQCVKoiqv7EXXkUl/6scPqREs3hSluIpe0B9VAMLAh0A2izuzOv3coX3h6acUPvqHEfbK6UV7Ee/SZSzQg=="/>
+    </item>
+  </channel>
 </rss>

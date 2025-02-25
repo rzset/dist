@@ -31,7 +31,7 @@
       <title>Version 241</title>
       <pubDate>Tue, 25 Feb 2025 21:12:35 +0530</pubDate>
       <sparkle:version>241</sparkle:version>
-      <enclosure url="https://github.com/rzset/dist/releases/download/241/z_set-2.4.1+241-windows-setup.exe" length="0" type="application/octet-stream" sparkle:os="windows" sparkle:edSignature="MD4CHQDDt9g/j0XbCdYVK4crUCtb936UtrlVBAhh/c/IAh0AmNcCPn0+9XmlARwSOqy6Tcg84F6Hz2Sea3pyKw=="/>
+      <enclosure url="https://github.com/rzset/dist/releases/download/241/z_set-2.4.1+241-windows-setup.exe" length="0" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MD4CHQDDt9g/j0XbCdYVK4crUCtb936UtrlVBAhh/c/IAh0AmNcCPn0+9XmlARwSOqy6Tcg84F6Hz2Sea3pyKw=="/>
     </item>
   </channel>
 </rss>

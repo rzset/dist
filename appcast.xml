@@ -29,9 +29,9 @@
     </item>
     <item>
       <title>Version 240</title>
-      <pubDate>Tue, 25 Feb 2025 17:39:31 +0530</pubDate>
+      <pubDate>Tue, 25 Feb 2025 17:48:22 +0530</pubDate>
       <sparkle:version>240</sparkle:version>
-      <enclosure url="https://github.com/rzset/dist/releases/download/240/z_set-2.4.0+240-windows-setup.exe" length="0" type="application/octet-stream" sparkle:os="windows" sparkle:edSignature="MD4CHQCVKoiqv7EXXkUl/6scPqREs3hSluIpe0B9VAMLAh0A2izuzOv3coX3h6acUPvqHEfbK6UV7Ee/SZSzQg=="/>
+      <enclosure url="https://github.com/rzset/dist/releases/download/240/z_set-2.4.0+240-windows-setup.exe" length="0" type="application/octet-stream" sparkle:os="windows" sparkle:edSignature="MD0CHQCm+TDZxxu3PrWBfw32Gb0fqCH+ZU/1kG1tKM0oAhwZ20jUZFr/ncebeSQPfjsIdO8aJyjFEkKxqlXC"/>
     </item>
   </channel>
 </rss>

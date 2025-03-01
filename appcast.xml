@@ -39,12 +39,6 @@
             <pubDate>Sat, 22 Feb 2025 20:18:10 +0530</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
         </item>
-        <item>
-            <title>Version 2.4.1</title>
-            <pubDate>Wed, 26 Feb 2025 08:15:02 +0000</pubDate>
-            <sparkle:version>2.4.1+241</sparkle:version>
-            <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
-            <enclosure url="https://github.com/rzset/dist/releases/download/241/z_set-2.4.1+241-windows-setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MD0CHQCZZtE5PcdJ2NpBhk+dYoHaRN091HzYQvg2kPNMAhwMGI9OAJNXOvKhTeaToWD/dF2wUf7sFHBjFj5V" length="0"/>
-        </item>
+    <item>         <title>Version 2.4.2</title>         <pubDate>Sat, 01 Mar 2025 19:34:17 +0530</pubDate>         <sparkle:version>2.4.2+242</sparkle:version>         <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>         <enclosure url="https://github.com/rzset/dist/releases/download/242/z_set-2.4.2+242-windows-setup.exe"  type="application/octet-stream" sparkle:os="windows"           sparkle:dsaSignature="MD4CHQC9Sdb0z3C7IlQ3x8VRcsMvNvUTwQ0XcHpjbqK6Ah0AwPEOlxUCTuaE6d8v+0oK5rHRSa+0/uAWFsMbww==" length="0"          />     </item>
     </channel>
 </rss>

@@ -42,12 +42,6 @@
                 <enclosure url="https://github.com/rzset/dist/releases/download/242/z_set242-240.delta" sparkle:deltaFrom="240" length="5811634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="UINglM3oLQXx1cs5+yljMiHpJ5Vff6hebunORn8RoYIO1/29s+YIblfglLSuDEB7OvfCot/uo3T4W9lzAwERDg=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>Version 2.4.3</title>
-            <pubDate>Tue, 04 Mar 2025 20:17:09 +0530</pubDate>
-            <sparkle:version>2.4.3+243</sparkle:version>
-            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
-            <enclosure url="https://github.com/rzset/dist/releases/download/243/z_set-2.4.3+243-windows-setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MD4CHQCR9Lyqiw9pBlzwgqcuRkz6reB6QMMY8YNsIgbpAh0Ayzn/SSFYIU1jFssvfcqoi2LWKrfCIjKluMmmTQ==" length="0"/>
-        </item>
+    <item>         <title>Version 2.4.4</title>         <pubDate>Wed, 05 Mar 2025 18:21:50 +0530</pubDate>         <sparkle:version>2.4.4+244</sparkle:version>         <sparkle:shortVersionString>2.4.4</sparkle:shortVersionString>         <enclosure url="https://github.com/rzset/dist/releases/download/244/z_set-2.4.4+244-windows-setup.exe"  type="application/octet-stream" sparkle:os="windows"           sparkle:dsaSignature="MDwCHH2acH1b0hx0rdcFTW3MImaU5NUNLa0vMoxa3LUCHEQYLjJEoig1iAljqqQ7N6P+xm6WccV1x6JVLQQ=" length="0"          />     </item>
     </channel>
 </rss>

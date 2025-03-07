@@ -4,12 +4,27 @@
         <title>Zset</title>
         <description>Most recent updates to Zset</description>
         <item>
+            <title>2.4.6</title>
+            <pubDate>Fri, 07 Mar 2025 22:56:52 +0530</pubDate>
+            <sparkle:version>246</sparkle:version>
+            <sparkle:shortVersionString>2.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rzset/dist/releases/download/246/zset_246.dmg" length="51474990" type="application/octet-stream" sparkle:edSignature="rNOtffpsRl311iqAhuw/Wo8MTFUNPvtHSWI/aLmN194TakqMemwBx5xhw1zUR5RLOsRwtHsizQ9cA0hrMq6UBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/rzset/dist/releases/download/246/z_set246-245.delta" sparkle:deltaFrom="245" length="1390038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="pKKZJCYOEQ5PeP2IeOkuEn8ilk0OYWzfXE5aThX7xqMuZyb3sVtMPYVghuChWA13IP3FSM0zuAPaFqiaTXDhCQ=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/246/z_set246-244.delta" sparkle:deltaFrom="244" length="2440190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="75dTdS4YVtvOHpH2ZDkFeExfqJO6AMc/EaGXw6nxnCaaIzi9hI8OI4WrP+dfsaijkBR5S/B2ewky4s5jWeZIDQ=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/246/z_set246-243.delta" sparkle:deltaFrom="243" length="5715986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="e7nOV+hOAhELfIL16A0HVu4+0qN5umiXHOilsmKeuZgx03UMTgJR0+yo2v8+0DH+6VrooIxFUhn9yD3pVD4CDA=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/246/z_set246-242.delta" sparkle:deltaFrom="242" length="5789338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Bbx+LKDu8yPi6bJztENtB+Uizla0mmMhWHtmHbf99+0K72sEo3tOGdArC9C6f6WDAGkuV5if8e/UzAPf4iSjCA=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/246/z_set246-241.delta" sparkle:deltaFrom="241" length="6140362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="H9epSoXMpoGpsvS8x6AdEVop+tmPquYK2IEIWjNPdw4QMJq/NVLs0pAO2bZNkQB6xjyPZnCDaJsYe0RjdWFBDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.4.5</title>
             <pubDate>Wed, 05 Mar 2025 18:40:29 +0530</pubDate>
             <sparkle:version>245</sparkle:version>
             <sparkle:shortVersionString>2.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/245/zset_245.dmg" length="51469711" type="application/octet-stream" sparkle:edSignature="f20fCoQikMLQAeYPxjPslvpa8VrzsPmh2WHjpM7l3sckwuIOYWz+0W3Aq03UJZliuDFufk/ykQCTknbQnRI5Cw=="/>
+            <enclosure url="https://github.com/rzset/dist/releases/download/246/zset_245.dmg" length="51469711" type="application/octet-stream" sparkle:edSignature="f20fCoQikMLQAeYPxjPslvpa8VrzsPmh2WHjpM7l3sckwuIOYWz+0W3Aq03UJZliuDFufk/ykQCTknbQnRI5Cw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/rzset/dist/releases/download/245/z_set245-244.delta" sparkle:deltaFrom="244" length="2304326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zqUtvkuT/S8hWa4/dERpCitBuMvWJ4vPpHD0Ba205QJ748tdes+n9Z1BGRFT5cvtas7DDg83/wfFi+5EWg5+Dw=="/>
                 <enclosure url="https://github.com/rzset/dist/releases/download/245/z_set245-243.delta" sparkle:deltaFrom="243" length="5533586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fSc/RTFBJuUl+iYn/4/R98EEMxb8QHaLg4DIerVruV70AcUJsjoyLpHpRzBEk73JSsUByNzBmEpkulPPl1fBDg=="/>
@@ -24,7 +39,7 @@
             <sparkle:version>244</sparkle:version>
             <sparkle:shortVersionString>2.4.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/245/zset_244.dmg" length="51478225" type="application/octet-stream" sparkle:edSignature="ZfzZRpbqQ5XXlrCpLnIvk1wOwSL6G9eWMxitjOAItdo9cR+gQW/Y3eJej3sIo8YwWgPFEEeQb24xnGpF23fPAQ=="/>
+            <enclosure url="https://github.com/rzset/dist/releases/download/246/zset_244.dmg" length="51478225" type="application/octet-stream" sparkle:edSignature="ZfzZRpbqQ5XXlrCpLnIvk1wOwSL6G9eWMxitjOAItdo9cR+gQW/Y3eJej3sIo8YwWgPFEEeQb24xnGpF23fPAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/rzset/dist/releases/download/244/z_set244-243.delta" sparkle:deltaFrom="243" length="5798330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XBkBXr4G6Cfb5WPu49U7URBqMnM6Hob4bOgYZkMi66lpZRwfpdipIn13h2lH0Hzv8PsOkSNkasAiv/1RdphGCA=="/>
                 <enclosure url="https://github.com/rzset/dist/releases/download/244/z_set244-242.delta" sparkle:deltaFrom="242" length="5894062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xAKWpeiNUDQBcO93siDdxMI2xkyXUuoH6hy8HzgCA4QzvABCOGYpzeIyvkbQAmF9vUlLxI6ixt7EFn3zNeOcDQ=="/>
@@ -33,18 +48,11 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>2.4.3</title>
-            <pubDate>Tue, 04 Mar 2025 19:56:10 +0530</pubDate>
-            <sparkle:version>243</sparkle:version>
-            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/245/zset_243.dmg" length="51490436" type="application/octet-stream" sparkle:edSignature="Pj3P+ifKMoCA62euGJE5PWF0/rDgfz0FKHyv68Le8AAak8WixxeyLrJvDig8FHakcI9aC77rPuDvwYyvihU4AA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/243/z_set243-242.delta" sparkle:deltaFrom="242" length="4578654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="5BAHV2eGk2KX6gUGc8D9y65E/PCYdiUMLssl2ZVCL1fRi6DsAnjN9/48nHHEXtnu2MROSUywxGpZh5JvFmIEDQ=="/>
-                <enclosure url="https://github.com/rzset/dist/releases/download/243/z_set243-241.delta" sparkle:deltaFrom="241" length="5915990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nLhJ07I2f19ep+CBE5a5VD8dVvwACBvWnlGxqs3MQ+iK4REZCv/W8ghTwdoyIsR3tZ9cKRXZy7h6RxEZW6t9DQ=="/>
-                <enclosure url="https://github.com/rzset/dist/releases/download/243/z_set243-240.delta" sparkle:deltaFrom="240" length="5919622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="a3b5NOwbaSHRDOOvCxkrDMRRwRTHPV4M/TNO4qLlB6soZ93H+k6eQ6TGLaQs+X0ktK3o9ltfnBmQ8BeeN9BWAQ=="/>
-            </sparkle:deltas>
+            <title>Version 2.4.5</title>
+            <pubDate>Wed, 05 Mar 2025 18:46:46 +0530</pubDate>
+            <sparkle:version>2.4.5+245</sparkle:version>
+            <sparkle:shortVersionString>2.4.5</sparkle:shortVersionString>
+            <enclosure url="https://github.com/rzset/dist/releases/download/245/z_set-2.4.5+245-windows-setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MD0CHAad1LjGQS+zATEKAm57a1puusOFbFjnZUHtvUkCHQCAiBWT6CzeghuLTqLo8sywTvei5Z1rztZ7mF5r" length="0"/>
         </item>
-    <item>         <title>Version 2.4.5</title>         <pubDate>Wed, 05 Mar 2025 18:46:46 +0530</pubDate>         <sparkle:version>2.4.5+245</sparkle:version>         <sparkle:shortVersionString>2.4.5</sparkle:shortVersionString>         <enclosure url="https://github.com/rzset/dist/releases/download/245/z_set-2.4.5+245-windows-setup.exe"  type="application/octet-stream" sparkle:os="windows"           sparkle:dsaSignature="MD0CHAad1LjGQS+zATEKAm57a1puusOFbFjnZUHtvUkCHQCAiBWT6CzeghuLTqLo8sywTvei5Z1rztZ7mF5r" length="0"          />     </item>
     </channel>
 </rss>

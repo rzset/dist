@@ -4,12 +4,27 @@
         <title>Zset</title>
         <description>Most recent updates to Zset</description>
         <item>
+            <title>2.5.0</title>
+            <pubDate>Tue, 18 Mar 2025 12:10:59 +0530</pubDate>
+            <sparkle:version>250</sparkle:version>
+            <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rzset/dist/releases/download/250/zset_250.dmg" length="51482512" type="application/octet-stream" sparkle:edSignature="c/ggNOhwZg1rDb/foyVwlX+fnr5WDpRfMnULDqhE/n3bzQac8bpxsDk9qyq7qL5wZWcxf8MJuapY9JlMA0Z8BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/rzset/dist/releases/download/250/z_set250-249.delta" sparkle:deltaFrom="249" length="2810350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KA5k2OazD2N/TTmQDuJ4GXpJWp6vPEbMWLpuSjVP9H+hWhzc/DV1uV4yMhSJovTRaevwi1xZrfl6imqOlqD3Bw=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/250/z_set250-248.delta" sparkle:deltaFrom="248" length="2868662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zykkE5tUnmlg+dAiQphykuC6YAzjyCr2ATxN8KMtjjNGIP5x3mcvBaaQM784Wd/htyac3VL7LPF7QnKjfaRWAw=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/250/z_set250-247.delta" sparkle:deltaFrom="247" length="2773074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ZRC76tddnxJkKQfimUPJLHn+9aJwoCAhZvPwSDMVP6KQXVwn+WtGnCdXffmoB2sGFum6QgYNP/hrcOFWjjOdDg=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/250/z_set250-246.delta" sparkle:deltaFrom="246" length="5139182" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Yql0HuI2SFy2j9mZPelGCV72wpEo8uaK25Fxx45AD5/YpYvPHpAzfrMLOsJ/ElIf4HfOTffxsqNaGmmPVTzKCQ=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/250/z_set250-245.delta" sparkle:deltaFrom="245" length="5408422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tG0TQP31Hz09EVLkqbGcaynWuzl+uGmgF6p2L883pCUmgI11M6PNaaKOvhOEJmERiuUIbfM3ubDan9V3fmUbCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.4.9</title>
             <pubDate>Tue, 11 Mar 2025 09:27:26 +0530</pubDate>
             <sparkle:version>249</sparkle:version>
             <sparkle:shortVersionString>2.4.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/249/zset_249.dmg" length="51484636" type="application/octet-stream" sparkle:edSignature="bnOWULKLNmvuEFrf9NEQIX6eO4HYvoxQnB4D9Q7ipmxWrBHfgj0z+T+3U5DCu80n/sgSt+ej9sPPsjlUgcegAQ=="/>
+            <enclosure url="https://github.com/rzset/dist/releases/download/250/zset_249.dmg" length="51484636" type="application/octet-stream" sparkle:edSignature="bnOWULKLNmvuEFrf9NEQIX6eO4HYvoxQnB4D9Q7ipmxWrBHfgj0z+T+3U5DCu80n/sgSt+ej9sPPsjlUgcegAQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/rzset/dist/releases/download/249/z_set249-248.delta" sparkle:deltaFrom="248" length="200110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dmjiON1PC5IeLkd7wGc0oGG8voE8CT5b6LbHrJ5hhjviVFTx5zn17WddDXnGk781rM4n0h5FtZF3O8zLF4YBDg=="/>
                 <enclosure url="https://github.com/rzset/dist/releases/download/249/z_set249-247.delta" sparkle:deltaFrom="247" length="814314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="VVtfMZWNnV2LsYjLaAufqDYmbumstB6DZO/GCyxPCtVowL8TUXeNVnVznN/lGP+bWwtRLyM4H9QzLX8NtZ52DA=="/>
@@ -23,24 +38,11 @@
             <sparkle:version>248</sparkle:version>
             <sparkle:shortVersionString>2.4.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/249/zset_248.dmg" length="51484343" type="application/octet-stream" sparkle:edSignature="TWh1qFvTUoDX8IdzbEljLSeSGzmwodnkYwIpe7tjgKWXdr88P2TO37wKyUZ1U7AAg0WUps7hbg4sbdqccyfuCA=="/>
+            <enclosure url="https://github.com/rzset/dist/releases/download/250/zset_248.dmg" length="51484343" type="application/octet-stream" sparkle:edSignature="TWh1qFvTUoDX8IdzbEljLSeSGzmwodnkYwIpe7tjgKWXdr88P2TO37wKyUZ1U7AAg0WUps7hbg4sbdqccyfuCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/rzset/dist/releases/download/248/z_set248-247.delta" sparkle:deltaFrom="247" length="954010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="jCjvCLH3NgmDlFWBp/gRrjPh4KbrBc1nsOWJaaRjdZfmMBwC9tfHYAxQtXAuVp17TGk6GZ+S/ittcYTC5KViBA=="/>
                 <enclosure url="https://github.com/rzset/dist/releases/download/248/z_set248-246.delta" sparkle:deltaFrom="246" length="3955478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1WBQlhdDEvxqVnVogUaxmuW0HMubhfY4fht46lPakCHRQzcEdM2FoxCTXe/coKQGATIvRkSzkWZYoar7Sqc0AQ=="/>
                 <enclosure url="https://github.com/rzset/dist/releases/download/248/z_set248-245.delta" sparkle:deltaFrom="245" length="4576202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="WwecmPNdmUZ86RvshWSuq5aphK8qceDZq4KlZ6qISUPTilqR3Ze6e2oR6iW0UWrppSE8l1Bu9MqEviwlLLk2AQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.4.7</title>
-            <pubDate>Mon, 10 Mar 2025 13:07:46 +0530</pubDate>
-            <sparkle:version>247</sparkle:version>
-            <sparkle:shortVersionString>2.4.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/249/zset_247.dmg" length="51483421" type="application/octet-stream" sparkle:edSignature="SEC4beu33a+GFOdp4Z2APgE+3JjfvQL6UkkUHrOXY4kxwVYempspaLQD+ZbtLoEbf6a90RIt1K6b7kTbRQM8AQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/247/z_set247-246.delta" sparkle:deltaFrom="246" length="3293302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="hAWOcehOKyzFVK8K7VSaqaPrkaxdEB24h8osOTiJ8+zvHbwvZTU3MSb1gNSTi/aHA8SJ/85qP/iX7N0MBhmfDA=="/>
-                <enclosure url="https://github.com/rzset/dist/releases/download/247/z_set247-245.delta" sparkle:deltaFrom="245" length="4560550" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Wmuf7s7UhY6g9vFXNzMblwyKhs1ZU7/SqMjz9PVuA9Yczvb787CPqQNwcoy3UVNtBnGs1F0AUB4BBljtuk0mCQ=="/>
-                <enclosure url="https://github.com/rzset/dist/releases/download/247/z_set247-244.delta" sparkle:deltaFrom="244" length="5610226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nF5wLbPnCQ6p2cKZSHOjA3dmvfhPJfweSvvzGlmFbC1xmjhR9FsVFWybLEOQ5CUzHc795tNGMLwRomXAbpacDg=="/>
             </sparkle:deltas>
         </item>
         <item>

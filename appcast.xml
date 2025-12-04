@@ -4,6 +4,17 @@
         <title>Zset</title>
         <description>Most recent updates to Zset</description>
         <item>
+            <title>2.8.9</title>
+            <pubDate>Thu, 04 Dec 2025 15:45:21 +0530</pubDate>
+            <sparkle:version>289</sparkle:version>
+            <sparkle:shortVersionString>2.8.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rzset/dist/releases/download/289/zset_289.dmg" length="62884581" type="application/octet-stream" sparkle:edSignature="PALoGEAm39MIEJWURgQr2eCBm9OiuvHLLuxaG/PbFW4tI06ovPb/epH/gGsixzLFvIhIzbo5ai4unKK6z6uFBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/rzset/dist/releases/download/289/z_set289-286.delta" sparkle:deltaFrom="286" length="7094782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="w4Be53QDjdoBLTRSonFGS56I2Yb89zuODX5KZWbd+8z7gqJqEJB+5BDwy8o2SKK+A9lfQadM3z7oFwZAZXO3CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.8.8</title>
             <pubDate>Thu, 04 Dec 2025 15:11:09 +0530</pubDate>
             <sparkle:version>288</sparkle:version>
@@ -26,17 +37,6 @@
             <sparkle:deltas>
                 <enclosure url="https://github.com/rzset/dist/releases/download/287/z_set287-286.delta" sparkle:deltaFrom="286" length="8925578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SQ445bF37nWSBXv0qq7s+naI1quUFjdG0t0lxXQhkUs8P7aAj9X4XmRao8qLw+0U69YNeS5wAO2kUl/foJPXBQ=="/>
                 <enclosure url="https://github.com/rzset/dist/releases/download/287/z_set287-285.delta" sparkle:deltaFrom="285" length="8947606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="icbnFFtwnBLU3mIaI6scKdNboWQPkV2/30tkmJl0s6zKVPq/deHeK9BAqRyWpWiIUITtT/Adi/WlL7quwbVDCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.8.6</title>
-            <pubDate>Fri, 28 Nov 2025 19:51:11 +0530</pubDate>
-            <sparkle:version>286</sparkle:version>
-            <sparkle:shortVersionString>2.8.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/288/zset_286.dmg" length="62841928" type="application/octet-stream" sparkle:edSignature="UHFLKYma4BLXo/6ccdnYDJTszftqvRRBP2HYsiZ+9nlPwq3iQP9rk18lU0td6/Mk6+0GqEfsEyXk/mQyI/edCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/286/z_set286-285.delta" sparkle:deltaFrom="285" length="4789166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="jxIC9DzbRM6Z01DVp8GZncG/9yaifNqA7OXWdjUviVrXEIlnFu88O7Gc1KFOwlrYPm95GwIwEUNL3mmUkCKIDg=="/>
             </sparkle:deltas>
         </item>
         <item>

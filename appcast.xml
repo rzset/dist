@@ -9,10 +9,9 @@
             <sparkle:version>290</sparkle:version>
             <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/290/zset_290.dmg" length="62889619" type="application/octet-stream" sparkle:edSignature="sb9WZFcDAT8VjVG4u2YQ5HICKJ9z6znjh35lpe17t44QPgNaoK7wxdJuiUIHOMo/sAEIXvP1pDaIHXUr0P+CAw=="/>
+            <enclosure url="https://github.com/rzset/dist/releases/download/290/zset_290.dmg" length="62889698" type="application/octet-stream" sparkle:edSignature="0fR70LDbXelGrDdHozNFW5V3HGHZsGcgrMBmQTUC+fE4b0LIybreAkY72Wj5uKgzIla894nYiQcND7zdaH0oAA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/290/z_set290-289.delta" sparkle:deltaFrom="289" length="6167082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="DOsmFenHwbQvDiMI6O0hMS2A3n5itxKKfl5WK/7jRC0Ifm124nVCL6zbRhuVHHxphY2naa1UhhZK/3hzWjUmAQ=="/>
-                <enclosure url="https://github.com/rzset/dist/releases/download/290/z_set290-286.delta" sparkle:deltaFrom="286" length="7195850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="pFGtp6DupivYX8YBIAInII54+AgW17R6tKRwVhwkMzDWl2Drzrdw30P7pxaBUr4yQ3eA9XliQOeYyCniwj+vAw=="/>
+                <enclosure url="https://github.com/rzset/dist/releases/download/290/z_set290-286.delta" sparkle:deltaFrom="286" length="7198486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9UySq4jUel1bUGmyQQv0fnYCgNWA6A5JuIMWvChLFccKQJByOo1OymrEg77OU3yY8GVtiF/DjKiF4VwUqkcCBg=="/>
             </sparkle:deltas>
         </item>
         <item>

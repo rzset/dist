@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Zset</title>
-        <description>Most recent updates to Zset</description>
-        <item>
-            <title>2.9.1</title>
-            <pubDate>Sat, 06 Dec 2025 08:05:55 +0530</pubDate>
-            <sparkle:version>291</sparkle:version>
-            <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/291/zset_291.dmg" length="62889525" type="application/octet-stream" sparkle:edSignature="WpP3aRulPNvNvOOkn699eMWWW7PvNdXShQKUjHnMK1P1n83rzTawgOSAaZa6wgeHMPvZ0vnE8TyRFjTmY4D4Dg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/291/z_set291-286.delta" sparkle:deltaFrom="286" length="7199750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ElokFEF3qE6lOcOBDHNajlyZKtyQgk8NWgSxoI3CSYo1jwls4KzrMAKnqG66CaeQ+jqRmUH5Y2JYTS+e95RyBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.9.0</title>
-            <pubDate>Sat, 06 Dec 2025 07:29:05 +0530</pubDate>
-            <sparkle:version>290</sparkle:version>
-            <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/290/zset_290.dmg" length="62889698" type="application/octet-stream" sparkle:edSignature="0fR70LDbXelGrDdHozNFW5V3HGHZsGcgrMBmQTUC+fE4b0LIybreAkY72Wj5uKgzIla894nYiQcND7zdaH0oAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/290/z_set290-286.delta" sparkle:deltaFrom="286" length="7198486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9UySq4jUel1bUGmyQQv0fnYCgNWA6A5JuIMWvChLFccKQJByOo1OymrEg77OU3yY8GVtiF/DjKiF4VwUqkcCBg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>2.8.9</title>
-            <pubDate>Thu, 04 Dec 2025 15:45:21 +0530</pubDate>
-            <sparkle:version>289</sparkle:version>
-            <sparkle:shortVersionString>2.8.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rzset/dist/releases/download/290/zset_289.dmg" length="62884581" type="application/octet-stream" sparkle:edSignature="PALoGEAm39MIEJWURgQr2eCBm9OiuvHLLuxaG/PbFW4tI06ovPb/epH/gGsixzLFvIhIzbo5ai4unKK6z6uFBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/rzset/dist/releases/download/289/z_set289-286.delta" sparkle:deltaFrom="286" length="7094782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="w4Be53QDjdoBLTRSonFGS56I2Yb89zuODX5KZWbd+8z7gqJqEJB+5BDwy8o2SKK+A9lfQadM3z7oFwZAZXO3CA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>Version 2.8.6</title>
-            <pubDate>Fri, 28 Nov 2025 19:57:50 +0530</pubDate>
-            <sparkle:version>2.8.6+286</sparkle:version>
-            <sparkle:shortVersionString>2.8.6</sparkle:shortVersionString>
-            <enclosure url="https://github.com/rzset/dist/releases/download/286/z_set-2.8.6+286-windows-setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MDwCHDnoYwJUuKLaZX7EsGyuH2ZqJD4HtI4txdUOG/sCHHWysjBgjlSAsJkUdL7iPTQnND3pVKjvPv6lepw=" length="0"/>
-        </item>
-    </channel>
+  <channel>
+    <title>Zset</title>
+    <description>Most recent updates to Zset</description>
+    <item>
+      <title>2.9.1</title>
+      <pubDate>Sat, 06 Dec 2025 08:05:55 +0530</pubDate>
+      <sparkle:version>291</sparkle:version>
+      <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/rzset/dist/releases/download/291/zset_291.dmg" length="62889525" type="application/octet-stream" sparkle:edSignature="WpP3aRulPNvNvOOkn699eMWWW7PvNdXShQKUjHnMK1P1n83rzTawgOSAaZa6wgeHMPvZ0vnE8TyRFjTmY4D4Dg=="/>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/rzset/dist/releases/download/291/z_set291-286.delta" sparkle:deltaFrom="286" length="7199750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ElokFEF3qE6lOcOBDHNajlyZKtyQgk8NWgSxoI3CSYo1jwls4KzrMAKnqG66CaeQ+jqRmUH5Y2JYTS+e95RyBQ=="/>
+      </sparkle:deltas>
+    </item>
+    <item>
+      <title>2.9.0</title>
+      <pubDate>Sat, 06 Dec 2025 07:29:05 +0530</pubDate>
+      <sparkle:version>290</sparkle:version>
+      <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/rzset/dist/releases/download/290/zset_290.dmg" length="62889698" type="application/octet-stream" sparkle:edSignature="0fR70LDbXelGrDdHozNFW5V3HGHZsGcgrMBmQTUC+fE4b0LIybreAkY72Wj5uKgzIla894nYiQcND7zdaH0oAA=="/>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/rzset/dist/releases/download/290/z_set290-286.delta" sparkle:deltaFrom="286" length="7198486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9UySq4jUel1bUGmyQQv0fnYCgNWA6A5JuIMWvChLFccKQJByOo1OymrEg77OU3yY8GVtiF/DjKiF4VwUqkcCBg=="/>
+      </sparkle:deltas>
+    </item>
+    <item>
+      <title>2.8.9</title>
+      <pubDate>Thu, 04 Dec 2025 15:45:21 +0530</pubDate>
+      <sparkle:version>289</sparkle:version>
+      <sparkle:shortVersionString>2.8.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/rzset/dist/releases/download/290/zset_289.dmg" length="62884581" type="application/octet-stream" sparkle:edSignature="PALoGEAm39MIEJWURgQr2eCBm9OiuvHLLuxaG/PbFW4tI06ovPb/epH/gGsixzLFvIhIzbo5ai4unKK6z6uFBA=="/>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/rzset/dist/releases/download/289/z_set289-286.delta" sparkle:deltaFrom="286" length="7094782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="w4Be53QDjdoBLTRSonFGS56I2Yb89zuODX5KZWbd+8z7gqJqEJB+5BDwy8o2SKK+A9lfQadM3z7oFwZAZXO3CA=="/>
+      </sparkle:deltas>
+    </item>
+    <item>
+      <title>Version 2.9.1</title>
+      <pubDate>Sat, 06 Dec 2025 09:38:05 +0530</pubDate>
+      <sparkle:version>2.9.1+291</sparkle:version>
+      <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/rzset/dist/releases/download/291/z_set-2.9.1+291-windows-setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MD0CHQDXbgv6WVcxGpqnaxsBytD6UFIB3vUFUHjmhnqRAhwRNW1AESjzXzgFfi32VjeZM3vNLMwJj3AChdg/" length="0"/>
+    </item>
+  </channel>
 </rss>

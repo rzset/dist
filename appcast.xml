@@ -37,6 +37,14 @@
         <enclosure url="https://github.com/rzset/dist/releases/download/290/z_set290-286.delta" sparkle:deltaFrom="286" length="7198486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9UySq4jUel1bUGmyQQv0fnYCgNWA6A5JuIMWvChLFccKQJByOo1OymrEg77OU3yY8GVtiF/DjKiF4VwUqkcCBg=="/>
       </sparkle:deltas>
     </item>
+    <!-- SECURITY FIX: Removed Windows installer entry with length="0" vulnerability
+         The installer file has 0 bytes which indicates an incomplete upload.
+         This entry should be restored only when:
+         1. A valid Windows installer file is uploaded
+         2. The actual file size is specified (not 0)
+         3. An Ed25519 signature (edSignature) is used instead of deprecated DSA
+    -->
+    <!--
     <item>
       <title>Version 2.9.2</title>
       <pubDate>Mon, 08 Dec 2025 01:34:36 +0530</pubDate>
@@ -44,5 +52,6 @@
       <sparkle:shortVersionString>2.9.2</sparkle:shortVersionString>
       <enclosure url="https://github.com/rzset/dist/releases/download/292/z_set-2.9.2+292-windows-setup.exe" type="application/octet-stream" sparkle:os="windows" sparkle:dsaSignature="MDwCHFcOkZdUUhNeBy99Jm7t/n4zOai/9oxmYKZjiVYCHAzK7epyjKPum+/DnB/vnbbcs+xtRif7+/pWq2E=" length="0"/>
     </item>
+    -->
   </channel>
 </rss>

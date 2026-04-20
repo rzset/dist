@@ -3,3 +3,6 @@
 
 # Except the following files
 !appcast.xml
+!SECURITY.md
+!README.md
+!.gitignore

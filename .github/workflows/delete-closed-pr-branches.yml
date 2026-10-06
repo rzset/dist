@@ -1,0 +1,58 @@
+# Deletes the head branch of a pull request once it is closed, merged or not.
+# pull_request_target only fires for pull requests into the default branch, so
+# a daily sweep catches pull requests into dev, rayon and stacked branches.
+name: Delete closed PR branches
+
+on:
+  pull_request_target:
+    types: [closed]
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: read
+
+concurrency:
+  group: delete-closed-pr-branches
+  cancel-in-progress: false
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+      EVENT_PR: ${{ github.event.pull_request.number }}
+      # Long-lived branches that must survive a merge (e.g. dev -> main).
+      KEEP: "main dev rayon feature/password-protected-links"
+      # The sweep ignores pull requests closed before this workflow existed.
+      SINCE: "2026-10-06T20:54:00Z"
+    steps:
+      - name: Delete head branches of closed pull requests
+        run: |
+          set -euo pipefail
+          default=$(gh api "repos/$REPO" --jq .default_branch)
+          in_use=$(gh pr list -R "$REPO" --state open --limit 500 \
+            --json headRefName,baseRefName --jq '.[] | .headRefName, .baseRefName')
+          if [ -n "$EVENT_PR" ]; then
+            prs="$EVENT_PR"
+          else
+            prs=$(gh pr list -R "$REPO" --state closed --limit 200 --json number,closedAt \
+              --jq ".[] | select(.closedAt >= \"$SINCE\") | .number")
+          fi
+          for n in $prs; do
+            read -r branch sha head_repo < <(gh api "repos/$REPO/pulls/$n" \
+              --jq '"\(.head.ref) \(.head.sha) \(.head.repo.full_name // "-")"')
+            if [ "$head_repo" != "$REPO" ]; then echo "#$n: head is in $head_repo, skip"; continue; fi
+            if [ "$branch" = "$default" ] || [[ " $KEEP " == *" $branch "* ]]; then
+              echo "#$n: $branch is long-lived, keep"; continue
+            fi
+            if grep -qxF "$branch" <<<"$in_use"; then echo "#$n: $branch is used by an open PR, keep"; continue; fi
+            tip=$(gh api "repos/$REPO/git/ref/heads/$branch" --jq .object.sha 2>/dev/null) \
+              || { echo "#$n: $branch already deleted"; continue; }
+            if [ "$tip" != "$sha" ]; then echo "#$n: $branch has commits after the PR closed, keep"; continue; fi
+            gh api -X DELETE "repos/$REPO/git/refs/heads/$branch"
+            echo "#$n: deleted $branch"
+          done

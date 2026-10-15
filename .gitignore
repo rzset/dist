@@ -3,3 +3,5 @@
 
 # Except the following files
 !appcast.xml
+!AGENTS.md
+!CLAUDE.md
